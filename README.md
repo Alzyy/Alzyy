@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alzy</h1>
 <h3 align="center">Backend developer from Italy</h3>
 
-- 🔭 I’m currently working on **Echoes of The Dead, Enderland**
+- 🔭 I’m currently working on **Nothing**
 
-- 🌱 I’m currently learning **Unity, C#**
+- 🌱 I’m currently learning **Life**
 
 - 📫 Reach me on Discord **Discord 0x416c7a79**
 
