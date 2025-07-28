@@ -32,9 +32,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alzydev&show_icons=true&theme=tokyonight&hide_title=true" alt="Alzy's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Alzyy&show_icons=true&theme=tokyonight&hide_title=true" alt="Alzy's GitHub stats"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alzydev&layout=compact&theme=tokyonight" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alzyy&layout=compact&theme=tokyonight" alt="Top languages"/>
 </p>
 
 ---
