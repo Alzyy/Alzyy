@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Alzy</h1>
-<h3 align="center">🇮🇹 Backend Developer | 🧪 Discord Bot & Minecraft Plugin Maker</h3>
+<h3 align="center">🇮🇹 Backend Developer | ☕ Passionate about Clean Code & Systems Design</h3>
 
 <p align="center">
   <a href="https://ko-fi.com/J3J01INUHI"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" /></a>
@@ -9,8 +9,9 @@
 
 ### 🧠 About Me
 
-- 💻 I build **Discord bots** in Node.js & **Spigot plugins** in Java  
-- 🌱 Currently learning more about **scalable systems and architecture**  
+- 💻 I build **backend systems** with Node.js & Java  
+- 🎓 Studying **Computer Engineering** at *Università degli Studi della Campania “Luigi Vanvitelli”*  
+- 🌱 Learning more about **scalable architectures and distributed systems**  
 - 🛠 I love working with **databases, automation, and clean APIs**  
 - 🎯 Passionate about **open source**, performance, and backend design  
 - 📫 Reach me on Discord: `0x416c7a79`
@@ -28,16 +29,6 @@
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/></a>
   <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40" alt="Arduino"/></a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alzyy&show_icons=true&theme=tokyonight&hide_title=true" alt="Alzyy's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alzyy&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 ---
