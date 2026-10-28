@@ -10,7 +10,7 @@
 ### 🧠 About Me
 
 - 💻 I build **backend systems** with Node.js, TypeScript & Java  
-- 🎓 2nd Year of **Computer Engineering** at *Università degli Studi della Campania “Luigi Vanvitelli”*  
+- 🎓 2nd Year of **Bachelor's Degree in Computer Engineering** at *Università degli Studi della Campania “Luigi Vanvitelli”*  
 - 🌱 Learning more about **Docker and containerization**  
 - 🛠 I love working with **databases, automation, and clean APIs**  
 - 🎯 Passionate about **open source**, performance, and backend design  
@@ -28,25 +28,4 @@
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/></a>
   <a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40" alt="SQLite"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/></a>
-  <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40" alt="Arduino"/></a>
-</p>
-
----
-
-### 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Alzyy&theme=tokyo-night&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-### ☕ Support & Stats
-
-<p align="center">
-  <a href="https://ko-fi.com/J3J01INUHI"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi" /></a>
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=Alzyy&label=Profile%20views&color=blueviolet&style=flat" alt="Profile views" />
-</p>
+  <a href="https://www.linux.org/" target="_blank"><img src="
