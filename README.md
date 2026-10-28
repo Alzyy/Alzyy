@@ -9,9 +9,9 @@
 
 ### 🧠 About Me
 
-- 💻 I build **backend systems** with Node.js & Java  
-- 🎓 Studying **Computer Engineering** at *Università degli Studi della Campania “Luigi Vanvitelli”*  
-- 🌱 Learning more about **scalable architectures and distributed systems**  
+- 💻 I build **backend systems** with Node.js, TypeScript & Java  
+- 🎓 2nd Year of **Computer Engineering** at *Università degli Studi della Campania “Luigi Vanvitelli”*  
+- 🌱 Learning more about **Docker and containerization**  
 - 🛠 I love working with **databases, automation, and clean APIs**  
 - 🎯 Passionate about **open source**, performance, and backend design  
 - 📫 Reach me on Discord: `0x416c7a79`
@@ -21,9 +21,11 @@
 ### 🧰 Tech Stack
 
 <p align="center">
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/></a>
   <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/></a>
   <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/></a>
   <a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40" alt="SQLite"/></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/></a>
@@ -37,16 +39,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alzyy&theme=tokyo-night&area=true&hide_border=true" alt="Contribution Graph"/>
-</p>
-
----
-
-### 🎧 Now Playing on Spotify
-
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=pxpkepjd0j9bfh1rdifgxmyap&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
-  </a>
 </p>
 
 ---
