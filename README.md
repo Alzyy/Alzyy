@@ -35,10 +35,10 @@
 
 ---
 
-### 🔥 Contribution Graph
+### 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alzyy&theme=tokyo-night&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://streak-stats.demolab.com?user=Alzyy&theme=tokyo-night&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
